@@ -11,4 +11,4 @@ for i in range(num_count):
 
 
 # Выводим результат
-print(f"Сумма введенных  чисел: {total_sum}")...
+print(f"Сумма введенных  чисел: {total_sum}")..
